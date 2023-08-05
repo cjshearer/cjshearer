@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, I'm Cody, a software developer with a commitment to efficiency and excellence. I'm passionate about enhancing productivity through platform engineering, refactoring to reduce complexity, or any other challenge offered by a full-stack role.
+
+Rather than simply addressing immediate challenges, I take pride in solving entire classes of problems, seeking to understand their root causes and addressing them holistically.
+
+My toolbox includes `Git`, `React-Native`, `TypeScript`, `Golang`, `Vue`, `Hugo`, `CircleCI`, `GitHub Actions`, `Fastlane`, `MySQL`, `MongoDB`, `Docker`, `Auth0`, and `Stripe`. I'm also eagerly exploring `Rust` and `WebAssembly` as a possible front-end replacement for TypeScript.
+
+*I am more than a programmer; I am a problem solver. These tools are not my limits, they are my foundation.*
 
 <!--
 **cjshearer/cjshearer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
